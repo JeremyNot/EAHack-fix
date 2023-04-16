@@ -1,2 +1,3 @@
 # EAHack-fix
-By iMadCat and fix some bug.
+A 2b2t Hack Client By iMadCat
+fix some bug.
